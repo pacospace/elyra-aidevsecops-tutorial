@@ -9,6 +9,7 @@ tensorflow = "*"
 matplotlib = "*"
 prometheus-client = "*"
 flask-cors = "*"
+prometheus-flask-exporter = "*"
 
 [dev-packages]
 flake8 = "*"
