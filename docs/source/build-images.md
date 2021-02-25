@@ -1,7 +1,7 @@
 # Create a first release and image of your project
 
 The following sub-sections of step 6 can be performed only if you have set your project with your pipelines.
-In order to do that you can followin these instructions: [Setting AICoE CI and Thoth on your repo](https://github.com/AICoE/aicoe-ci#setting-aicoe-ci-on-github-organizationrepository).
+In order to do that you can follow these instructions: [Setting AICoE CI and Thoth on your repo](https://github.com/AICoE/aicoe-ci#setting-aicoe-ci-on-github-organizationrepository).
 
 For the purpose of the tutorial the images required are already created using these pipelines, therefore here you can find a description on how they have been created and where they are available.
 
